@@ -94,5 +94,4 @@ validación.
 
 ## Licencia
 
-Sin licencia definida. Si quieres publicarla con una licencia abierta, añade el
-archivo `LICENSE` correspondiente.
+MIT © 2026 elfrask. Ver [LICENSE](LICENSE).

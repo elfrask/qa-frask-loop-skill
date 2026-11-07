@@ -1,6 +1,7 @@
 ---
 name: qa-skill
 description: "Orquesta un escuadrón multiagente de QA, correctores y un juez para validar que una implementación cumple exactamente las indicaciones del usuario. Mantiene el ciclo abierto hasta que el juez apruebe. Úsalo cuando pidan QA, quality assurance, revisión, validación, auditoría, pruebas de flujo, revisión visual, verificación de una feature o un veredicto final; también con frases como haz QA, revisa esto, valida, verifica, prueba el flujo, review, validate, judge, corrige y valida."
+license: MIT
 ---
 
 # QA Swarm — Validación multiagente
