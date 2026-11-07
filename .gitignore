@@ -1,0 +1,7 @@
+# Artefactos locales del loop QA
+.qa/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
